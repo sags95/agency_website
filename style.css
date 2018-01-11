@@ -1,0 +1,38 @@
+.navbar{
+   margin-bottom: 0;
+}
+.jumbotron-fluid {
+    height: 100vh;
+    margin-top: 30px;
+    /* background: rgba(200, 54, 54, 0.5); opacity for jumbotron */
+}
+#cover-img{
+    margin-left: 20px;
+    border-radius: 30px;
+}
+.outer-wrap{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.title{
+    position: relative;
+    bottom: 200px;
+}
+.main-txt{
+    position: relative;
+    bottom: 150px;
+}
+.btn-main-wrap{
+    position: relative;
+    right: 30px;
+}
+.btn-main{
+    display: block;
+    margin: 0 auto;
+    border-radius: 25px;
+    margin-left: 40px;
+    margin-right: 40px;
+
+
+}
